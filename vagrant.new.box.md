@@ -1,4 +1,4 @@
-#  vagrant
+# create a new vagrant box for virtual box from an ubuntu iso
 
 ##  install Linux
 user:     vagrant
